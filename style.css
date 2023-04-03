@@ -18,6 +18,10 @@ a {
   background-color: rgba(255, 0, 0, 0.2);
 }
 
+#entertainment-page {
+  background-color: rgba(150, 0, 150, 0.2);
+}
+
 .header-container {
   display: flex;
   justify-content: space-between;
